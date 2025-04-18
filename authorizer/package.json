@@ -1,0 +1,13 @@
+{
+  "name": "authorizer",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "jwt-decode": "^4.0.0"
+  }
+}

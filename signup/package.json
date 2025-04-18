@@ -1,0 +1,16 @@
+{
+  "name": "signup-lambda",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity-provider": "^3.710.0",
+    "amazon-cognito-identity-js": "^6.3.12",
+    "aws-sdk": "^2.1692.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7"
+  }
+}
